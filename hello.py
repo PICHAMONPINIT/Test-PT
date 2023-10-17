@@ -1,6 +1,4 @@
 print("hello world")
 
-a = 2
-b = 2
-
-print(a + b)
+for i in range(1, 13):
+    print(f"2 x {i} = {2*i}")
